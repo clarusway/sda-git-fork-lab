@@ -1,3 +1,4 @@
+
 # Welcome to Git Lab
 ## About This Project
 This lab is created to help students practice Git basics including init, add, commit, branch, and push. 
